@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PROJECTOR 24/7 - Mentoría en Costos con IA</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Hanken+Grotesk:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="container">
+            <img src="https://assets.cdn.filesafe.space/gbVyjDkuMftRTNdweDbJ/media/d4124b9b-e81a-4907-8dcd-2619f46432af.png" alt="PROJECTOR Logo" class="logo">
+        </div>
+    </nav>
+
+    <section class="hero">
+        <div class="container">
+            <h1 class="hero-title">CON LA MENTORÍA PROJECTOR TE AHORRAS<br>5 AÑOS DE LICITACIONES FALLIDAS</h1>
+            <div class="hero-badges">
+                <span class="badge"><i class="fas fa-robot"></i> IA</span>
+                <span class="badge"><i class="fas fa-tools"></i> CRITERIO TÉCNICO REAL</span>
+                <span class="badge"><i class="fas fa-headset"></i> MENTORÍA 24/7</span>
+            </div>
+            <h2 class="hero-subtitle">AUTOMATIZANDO TUS APUs DE UN MES A UN DÍA</h2>
+            <h2 class="hero-cta-text"><span class="highlight">SIN NECESIDAD DE SER EXPERTO EN EXCEL</span></h2>
+            <a href="https://pay.hotmart.com/F84938504I?off=lj11oldv" class="cta-button pulse">
+                <i class="fas fa-shopping-cart"></i> INSCRIBIRME AHORA
+            </a>
+        </div>
+    </section>
+
+    <section class="transformation">
+        <div class="container">
+            <p class="lead-text">Reduce presupuestos de semanas a horas, acelera proyectos de un mes a un solo día y consigue un 50% más de contratos.</p>
+            <p class="subtitle-text">Incluso si nunca has usado IA.</p>
+        </div>
+    </section>
+
+    <section class="profiles">
+        <div class="container">
+            <div class="profile-grid">
+                <div class="profile-card">
+                    <div class="profile-icon">
+                        <i class="fas fa-calculator"></i>
+                    </div>
+                    <h3>Si eres presupuestador</h3>
+                    <p>Tu propio <strong>mentor digital 24/7</strong>, listo para asistirte en cada paso del presupuesto.</p>
+                    <ul class="check-list">
+                        <li><i class="fas fa-check-circle"></i> Cálculos en hidráulica, sanitaria, eléctrica</li>
+                        <li><i class="fas fa-check-circle"></i> Sin errores costosos ni dependencias</li>
+                        <li><i class="fas fa-check-circle"></i> Domina áreas que no conoces al 100%</li>
+                    </ul>
+                </div>
+
+                <div class="profile-card">
+                    <div class="profile-icon">
+                        <i class="fas fa-hard-hat"></i>
+                    </div>
+                    <h3>Si eres contratista</h3>
+                    <p>Escala tu negocio con tu <strong>ingeniero virtual</strong> que te acompaña en cualquier momento.</p>
+                    <ul class="check-list">
+                        <li><i class="fas fa-check-circle"></i> Resuelve dudas en plena negociación</li>
+                        <li><i class="fas fa-check-circle"></i> Ajustes de presupuesto a las 11 PM</li>
+                        <li><i class="fas fa-check-circle"></i> Revisiones urgentes en días festivos</li>
+                    </ul>
+                </div>
+
+                <div class="profile-card">
+                    <div class="profile-icon">
+                        <i class="fas fa-laptop-code"></i>
+                    </div>
+                    <h3>De empleado a independiente</h3>
+                    <p>Trabaja desde cualquier lugar con <strong>precisión quirúrgica</strong> sin depender de una empresa.</p>
+                    <ul class="check-list">
+                        <li><i class="fas fa-check-circle"></i> No necesitas años de experiencia</li>
+                        <li><i class="fas fa-check-circle"></i> Más intuitivo que manejar Word</li>
+                        <li><i class="fas fa-check-circle"></i> Sin sacrificar tiempo con tu familia</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="process">
+        <div class="container">
+            <h2 class="section-title"><i class="fas fa-lightbulb"></i> Beneficios de PROJECTOR 24/7</h2>
+            
+            <div class="step-card">
+                <div class="step-number">
+                    <i class="fas fa-cube"></i>
+                    <span>PASO 1</span>
+                </div>
+                <h3>Construir el contexto</h3>
+                <p>Elabora <strong>descripciones detalladas y especificaciones técnicas en minutos</strong>. La IA te ayudará a identificar qué incluir y qué excluir en cada ítem, siempre bajo tu criterio técnico.</p>
+                <div class="highlight-box">
+                    <i class="fas fa-quote-left"></i>
+                    Un presupuesto sólido nace de una descripción rigurosa y clara.
+                </div>
+            </div>
+
+            <div class="step-card">
+                <div class="step-number">
+                    <i class="fas fa-robot"></i>
+                    <span>PASO 2</span>
+                </div>
+                <h3>Automatizar con un Superagente</h3>
+                <p>Usa un <strong>superagente más avanzado que GENSPARK</strong>, capaz de ejecutar en un solo prompt lo que antes requería siete.</p>
+                <ul class="feature-list">
+                    <li><i class="fas fa-angle-right"></i> Presupuesto completo: resumen ejecutivo, listas de materiales y APUs</li>
+                    <li><i class="fas fa-angle-right"></i> Precios y rendimientos validados automáticamente</li>
+                    <li><i class="fas fa-angle-right"></i> Simula variaciones y tropicaliza tu forma de presupuestar</li>
+                </ul>
+            </div>
+
+            <div class="step-card">
+                <div class="step-number">
+                    <i class="fas fa-bullseye"></i>
+                    <span>OBJETIVO</span>
+                </div>
+                <h3>Tu sistema automatizado</h3>
+                <p>Transforma tu experiencia técnica en un <strong>sistema automatizado, flexible y confiable</strong> que reduce errores, acelera resultados y eleva la calidad.</p>
+            </div>
+        </div>
+    </section>
+
+    <section class="deliverables">
+        <div class="container">
+            <h2 class="section-title"><i class="fas fa-gifts"></i> Lo que recibirás</h2>
+            
+            <div class="deliverable-grid">
+                <div class="deliverable-item">
+                    <i class="fas fa-dollar-sign icon-large"></i>
+                    <h4>Ahorra miles de dólares</h4>
+                    <p>Optimiza superagentes existentes sin pagar herramientas innecesarias</p>
+                </div>
+
+                <div class="deliverable-item">
+                    <i class="fas fa-book icon-large"></i>
+                    <h4>Manual de 40+ páginas</h4>
+                    <p>Guía completa de presupuestación con IA</p>
+                </div>
+
+                <div class="deliverable-item">
+                    <i class="fas fa-clipboard-list icon-large"></i>
+                    <h4>Guías interactivas</h4>
+                    <p>Cartilla personalizada por cada clase</p>
+                </div>
+
+                <div class="deliverable-item">
+                    <i class="fas fa-video icon-large"></i>
+                    <h4>Mentoría en vivo</h4>
+                    <p>3 días de inmersión total con clases en vivo y grabaciones</p>
+                </div>
+
+                <div class="deliverable-item">
+                    <i class="fas fa-database icon-large"></i>
+                    <h4>Tu propia Base de Datos Automatizada</h4>
+                    <p>Vamos a crear tu propia base de datos 100% automatizada</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="pricing">
+        <div class="container">
+            <div class="price-card">
+                <div class="price-header">
+                    <h2>PROJECTOR 24/7 <sup>®</sup></h2>
+                    <p class="price-subtitle">Inversión en tu transformación profesional</p>
+                </div>
+                
+                <div class="price-body">
+                    <div class="price-amount">
+                        <span class="currency">$</span>297
+                        <span class="period">USD</span>
+                    </div>
+                    <p class="payment-option"><i class="fas fa-credit-card"></i> O en <strong>12 cuotas sin interés</strong></p>
+                    <p class="payment-note">Mientras llega tu primera cuota, ya estarás aplicando los sistemas y ahorrando dinero real.</p>
+                </div>
+
+                <a href="https://pay.hotmart.com/F84938504I?off=lj11oldv" class="cta-button large pulse">
+                    <i class="fas fa-lock"></i> ASEGURAR MI CUPO AHORA
+                </a>
+
+                <div class="guarantee">
+                    <i class="fas fa-shield-alt"></i>
+                    <p>Política de inscripción: La inversión es final. Sin reembolsos en caso de no asistencia. Tendrás acceso a todas las grabaciones.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="bonuses">
+        <div class="container">
+            <h2 class="section-title"><i class="fas fa-gift"></i> Bonos Exclusivos (sin costo adicional)</h2>
+            
+            <div class="bonus-grid">
+                <div class="bonus-card">
+                    <div class="bonus-number">BONO 1</div>
+                    <div class="bonus-icon"><i class="fas fa-file-alt"></i></div>
+                    <h3>Automatiza Formatos de Obra</h3>
+                    <p>Cronogramas, control de obra, actas y especificaciones automatizados con IA.</p>
+                </div>
+
+                <div class="bonus-card">
+                    <div class="bonus-number">BONO 2</div>
+                    <div class="bonus-icon"><i class="fas fa-calculator"></i></div>
+                    <h3>Cómo Crear tu Propio Superagente IA</h3>
+                    <p>Crea tu calculadora de rendimientos, APUs o mano de obra.</p>
+                </div>
+
+                <div class="bonus-card">
+                    <div class="bonus-number">BONO 3</div>
+                    <div class="bonus-icon"><i class="fas fa-user-tie"></i></div>
+                    <h3>Diagnóstico Personalizado</h3>
+                    <p>Sesión uno a uno con el Ing. Daniel Medina para tu caso específico.</p>
+                </div>
+            </div>
+
+            <div class="total-value">
+                <h3>Por $297 USD obtienes:</h3>
+                <ul class="value-list">
+                    <li><i class="fas fa-check"></i> 3 días de inmersión total en vivo</li>
+                    <li><i class="fas fa-check"></i> Manual y cartillas interactivas</li>
+                    <li><i class="fas fa-check"></i> 3 bonos exclusivos</li>
+                    <li><i class="fas fa-check"></i> Base de datos automatizada en Excel</li>
+                    <li><i class="fas fa-check"></i> Grabaciones de todas las clases</li>
+                </ul>
+            </div>
+        </div>
+    </section>
+
+    <section class="faq">
+        <div class="container">
+            <h2 class="section-title"><i class="fas fa-question-circle"></i> Preguntas Frecuentes</h2>
+            
+            <div class="faq-grid">
+                <div class="faq-item">
+                    <div class="faq-question">
+                        <i class="fas fa-calendar-alt"></i>
+                        <span>¿Cuál es la fecha y horario de inicio?</span>
+                    </div>
+                    <div class="faq-answer">
+                        <p><strong>📅 Fechas:</strong> 21, 22 y 23 de abril</p>
+                        <p><strong>⏰ Horario:</strong> 7:00 PM a 9:00 PM COL / 6:00 PM a 8:00 PM CDMX</p>
+                        <p><strong>🎥 Formato:</strong> Clase en vivo</p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <div class="faq-question">
+                        <i class="fas fa-gift"></i>
+                        <span>¿Qué recibirás además de la formación?</span>
+                    </div>
+                    <div class="faq-answer">
+                        <ul>
+                            <li><i class="fas fa-check"></i> Grabaciones de todas las clases</li>
+                            <li><i class="fas fa-check"></i> Material de apoyo y plantillas</li>
+                            <li><i class="fas fa-check"></i> Certificado de participación</li>
+                            <li><i class="fas fa-check"></i> Ejercicios prácticos y casos reales</li>
+                            <li><i class="fas fa-check"></i> Soporte en tiempo real</li>
+                        </ul>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+    <section class="final-cta">
+        <div class="container">
+            <h2>¿Listo para transformar tu carrera?</h2>
+            <p>Únete ahora y recibe todos los bonos exclusivos</p>
+            <a href="https://pay.hotmart.com/F84938504I?off=lj11oldv" class="cta-button huge pulse">
+                <i class="fas fa-rocket"></i> COMENZAR MI TRANSFORMACIÓN
+            </a>
+        </div>
+    </section>
+
+    <footer class="footer">
+        <div class="container">
+            <a href="https://wa.me/573152226113" class="whatsapp-button">
+                <i class="fab fa-whatsapp"></i> WhatsApp Ing. Daniel Medina
+            </a>
+            <div class="footer-info">
+                <p>© 2026 Ing. Daniel Medina</p>
+                <p>Projector: Mentor en Obra 24/7™</p>
+                <p><a href="#">Términos y Condiciones</a></p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

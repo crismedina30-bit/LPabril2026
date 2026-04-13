@@ -1,0 +1,53 @@
+MENTORÍA PROJECTOR OBRA 24/7
+Propuesta de Formación
+
+
+1. Resumen General
+Aspecto	Detalle
+Nombre	Mentoría Projector Obra 24/7
+Duración	8 días — 2 semanas de formación online
+Horas totales	16 horas (clases de 2 horas cada una)
+Formato	Práctico, sin rellenos. 100% online en vivo.
+Semana 1	Herramientas gratuitas (sin costo)
+Semana 2	Herramientas de pago (pagas)
+
+2. Programa de Clases
+Semana 1 — Formatos: Actas, Pliegos y APUs
+Enfoque: Dominar el uso de IA con herramientas gratuitas para crear y automatizar formatos profesionales de construcción.
+
+Día	Tema	Contenido
+Día 1	Introducción a la IA y Agentes	Qué es la IA, cómo funcionan los agentes y cómo empezar a usarlos en obra.
+Día 2	Prompts e Instrucciones	Cómo redactar prompts efectivos y cómo construir una cadena de prompts.
+Día 3	Automatización de Formatos	Aplicar la cadena de prompts para organizar y llevar actas, pliegos y APUs al formato específico de su obra o proyecto.
+Día 4	Mentalidad	Desbloquear al profesional para adoptar la IA en su día a día. La técnica es importante, pero la mentalidad es lo que más influye en la adopción real.
+
+Semana 2 — Contexto, Superagentes y Automatización Masiva
+Enfoque: Profundizar con herramientas de pago para automatizar procesos a escala (100 APUs) y construir superagentes personalizados.
+
+Día	Tema	Contenido
+Día 5	Contexto y Fórmula C-O-S	Construir un contexto sólido. Fórmula: Contexto (cualitativo) + Objetivo (cualitativo) + Salida (formato de entrega). Profundización en elaboración de formatos profesionales.
+Día 6	Introducción a los Superagentes	Diferencia entre un chatbot conversacional y un superagente. El superagente hace su propio plan y lo desarrolla sin que el usuario ejecute paso a paso.
+Día 7	Automatización de 100 APUs	Generar 100 APUs con logo, formato y condiciones específicas del proyecto. Incluye componente de mentalidad para desbloquear el manejo del área.
+Día 8	Cierre y Consolidación	Repaso final, preguntas y entrega de recursos. Consolidación de todo el proceso aprendido en las dos semanas.
+
+3. Bonos de Acción rápida 24 horas - Exclusivo para quienes compren antes de medianoche del día después del lanzamiento.
+Bono	Nombre	Descripción
+Bono 1 	Crea tu Propio Superagente IA	Se entrega un System Prompt base (conjunto de prompts) y se enseña a personalizarlo al estilo propio de trabajo. Exportable a cualquier computador u ordenador, funciona también en la nube.
+Bono 2 	Diagnóstico Personalizado (Sesión 1:1)	Sesión uno a uno para resolver un problema puntual: presupuesto exprés con velocidad y calidad, automatización de un formato específico, o cualquier consulta técnica del área.
+
+4. Cronograma de Fechas
+Etapa	Fechas	Detalle
+Sesiones Uno a Uno (Bono BAR)	20 – 24 de abril de 2025	Diagnóstico personalizado previo al inicio de clases.
+Semana 1 de Clases	27 de abril – 1 de mayo	Días 1 al 4. Herramientas gratuitas.
+Semana 2 de Clases	4 – 8 de mayo de 2025	Días 5 al 8. Herramientas de pago.
+
+5. Aspectos Clave
+•	16 horas de formación práctica, sin rellenos.
+•	Semana 1: solo herramientas gratuitas — el estudiante arranca sin inversión adicional.
+•	Semana 2: herramientas de pago para escalar resultados.
+•	Bono de Acción Rápida activo solo hasta medianoche del día después del lanzamiento.
+•	El Bono BAR (sesión 1:1) se puede usar para presupuestos exprés o automatización de formatos específicos.
+
+
+
+
